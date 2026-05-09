@@ -1,25 +1,13 @@
-# 👋 Hey, I'm Abner!
+# 🚀 Mi Sistema Pro
+Sistema de gestión de alto nivel desarrollado con PHP, MySQL y mucho estilo.
 
-- 💻 Aprendiendo desarrollo web
-- 🔥 HTML, CSS, JavaScript y PHP
-- 🎮 Fan de los videojuegos
-- ⚡ Creando proyectos en VS Code
+## 🛠️ Tecnologías
+* **Backend:** PHP 8.x (PDO)
+* **Base de datos:** MySQL
+* **Frontend:** Tailwind CSS + JavaScript
+* **Servidor:** WAMP
 
----
-
-## 🚀 Tech Stack
-
-![HTML](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/php-purple?style=for-the-badge&logo=php&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=07jafett&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=07jafett&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=07jafett&layout=compact&theme=tokyonight)
+## 📦 Instalación
+1. Clonar el repositorio.
+2. Importar la base de datos desde phpMyAdmin.
+3. Configurar `config/database.php`.
