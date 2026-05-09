@@ -1,13 +1,17 @@
-# Hey, i'm Jafet! 
+# 👋 Hola, soy Abner
 
-A brief description of what this project does and who it's for
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=07jafett&theme=transparent)](https://git.io/streak-stats)
+💻 Aprendiendo desarrollo web  
+🔥 HTML, CSS, JavaScript y PHP  
+🎮 Me gustan los videojuegos y la tecnología  
+⚡ Creando proyectos en VS Code
 
+## 🚀 Tecnologías
 
-## 📊 GitHub Stats
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
 
-## 📊 Most Used Languages
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=07jafett&layout=compact&theme=radical" />
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+
+![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php&logoColor=white)
+
